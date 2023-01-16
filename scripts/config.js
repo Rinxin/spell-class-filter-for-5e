@@ -18,8 +18,8 @@ SCF.classes = {
     arcane      : "SPELLCLASSFILTER.arcane",
     divine      : "SPELLCLASSFILTER.divine",
     primal      : "SPELLCLASSFILTER.primal",
-    arcane, divne      : "SPELLCLASSFILTER.arcane-divine",
-    arcane, primal      : "SPELLCLASSFILTER.arcane-primal",
-    divine, primal      : "SPELLCLASSFILTER.divine-primal",
-    arcane, divine, primal      : "SPELLCLASSFILTER.arcane-divine-primal",
+    "arcane, divne"      : "SPELLCLASSFILTER.arcane-divine",
+    "arcane, primal"      : "SPELLCLASSFILTER.arcane-primal",
+    "divine, primal"      : "SPELLCLASSFILTER.divine-primal",
+    "arcane, divine, primal"      : "SPELLCLASSFILTER.arcane-divine-primal",
 }
